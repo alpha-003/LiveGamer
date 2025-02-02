@@ -32,8 +32,8 @@ Here's a sample `README.md` for your LiveGamer project:
 ### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <[repository-url](https://github.com/alpha-003/LiveGamer)>
+cd <LiveGamer>
 ```
 
 ### 2. Install dependencies:
