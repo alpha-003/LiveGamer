@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your LiveGamer project:
-
----
 
 # LiveGamer - Cricket Betting App
 
